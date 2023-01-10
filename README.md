@@ -4,4 +4,4 @@
 
 Acceso web desde:
 
-[https://leonardo-villagran.github.io/galeria_imagenes_react/](https://leonardo-villagran.github.io/galeria_imagenes_react/)
+[https://leonardo-villagran.github.io/galeria_imagenes](https://leonardo-villagran.github.io/galeria_imagenes)
