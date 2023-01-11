@@ -1,5 +1,7 @@
 // components/Card.jsx
 import React from 'react'
+import Button from "react-bootstrap/Button";
+
 //Función que genera la card que será repetida en la web principal. 
 function Card({ titulo, imagen, descripcion }) {
     return (
@@ -9,10 +11,10 @@ function Card({ titulo, imagen, descripcion }) {
                     className="card-img-top" alt="Imagen de programación" />
                 <div className="card-body">
                     <h5 className="card-title">{titulo}</h5>
-                    <p className="card-text">
+                    <p>
                         {descripcion}
                     </p>
-                    <a href="#!" className="btn btn-primary">Ver más</a>
+                    <Button variant="primary">Ver más</Button>
                 </div>
             </div>
         </div>

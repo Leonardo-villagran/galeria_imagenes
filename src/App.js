@@ -10,12 +10,12 @@ import Card from './componentes/Card.jsx'
 import Footer from './componentes/Footer.jsx'
 
 //Definición de constante con los datos que se van a utilizar.
-const title="Lenguajes de programación - 2023";
-const contenido="Estos lenguajes de programación permiten crear programas de cualquier tamaño, adaptados a las necesidades de los clientes.";
+const title="Galería de Imágenes con React";
+const contenido="Estos lenguajes de programación son los principales del 2023 y permiten crear programas de cualquier tamaño, adaptados a las necesidades de los clientes.";
 const email="mailto:leonardovillagran@yahoo.com";
 const color="primary";
 
-const nombre='@Leonardo-Villagrán';
+const nombre='@Leonardo-Villagrán. Todos los derechos reservados. ';
 
 //Definición del arreglo para los contenidos de las distintas Cards.
 const arreglo=[
